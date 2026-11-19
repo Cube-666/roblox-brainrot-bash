@@ -1,2 +1,7 @@
-default.project.json
+# Build output dari Rojo — jangan commit file .rbxl
 *.rbxl
+build/
+
+# Cache / tooling lokal
+.rojo/
+*.log
